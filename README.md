@@ -32,17 +32,21 @@
     </div>
   </div>
   ```
-  ##CSS (Obligatorio)
+  ## CSS (Obligatorio)
   
   El atributo de css column-count es el que determina el numero de columna se puede modificar por el que desees y a su vez tendra que modificar lo mismo en las media query para el responsive.
   
   ```
-   .mansory {
+  .mansory {
      -webkit-column-count: 4; /* Chrome, Safari, Opera */
      -moz-column-count: 4; /* Firefox */
      column-count: 4;
   }
-  .mansory img{ width: 100%; padding: 7px 0;}
+  .mansory img{
+    width: 100%;
+    padding: 7px 0;
+  }
+  
   @media (max-width: 1200px) {
     .mansory {
       -webkit-column-count: 3; /* Chrome, Safari, Opera */
@@ -63,7 +67,7 @@
      }
   }
   ```
-##DEMOS:
+## DEMOS:
 
 https://torresgol10.github.io/masonry-gallery/index.html
 
