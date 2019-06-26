@@ -1,6 +1,6 @@
 # masonry-gallery
 
-##Estructura
+## Estructura
 ```
 <div class="container-fluid">
     <div class="row">
