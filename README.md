@@ -1,4 +1,4 @@
-# masonry-gallery
+# Masonry Gallery
 
 ## Estructura
 ```
