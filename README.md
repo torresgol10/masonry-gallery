@@ -1,6 +1,6 @@
 # masonry-gallery
 
-#Estructura
+##Estructura
 ```
 <div class="container-fluid">
     <div class="row">
@@ -32,7 +32,7 @@
     </div>
   </div>
   ```
-  #CSS (Obligatorio)
+  ##CSS (Obligatorio)
   
   El atributo de css column-count es el que determina el numero de columna se puede modificar por el que desees y a su vez tendra que modificar lo mismo en las media query para el responsive.
   
@@ -63,3 +63,7 @@
      }
   }
   ```
+##DEMOS:
+
+https://torresgol10.github.io/masonry-gallery/index.html
+
